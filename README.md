@@ -25,9 +25,9 @@ root
 │   └── users.js
 ├── views
 │   └── includes
-│       ├── end.ejs
-│       ├── head.ejs
-│       └── navigation.ejs
+│   │   ├── end.ejs
+│   │   ├── head.ejs
+│   │   └── navigation.ejs
 │   ├── 404.ejs
 │   ├── index.ejs
 │   └── users.ejs
